@@ -6,5 +6,5 @@
 - 创建场景并在场景内放置Plane和Cube
 - 导出Windows可执行程序
 
-##[视频<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">]()
+##[视频 <img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">]()
 ##[资料]()
