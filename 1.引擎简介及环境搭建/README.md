@@ -7,4 +7,4 @@
 - 导出Windows可执行程序
 
 ##[视频 <img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](http://pan.baidu.com/s/1mhELCrY)
-##[资料]()
+##[資源]()
