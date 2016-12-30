@@ -7,4 +7,4 @@
 - xxxxx
 
 ##[视频 <img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">]()
-##[资料]()
+##[資源]()
