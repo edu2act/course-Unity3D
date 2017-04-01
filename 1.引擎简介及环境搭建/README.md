@@ -4,7 +4,7 @@
 ## 练习
 - 创建一个空工程
 - 创建场景并在场景内放置Plane和Cube
-- 导出Windows可执行程序
+- 导出为Windows可执行程序
 
 ##[视频 <img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](http://pan.baidu.com/s/1mhELCrY)
 ##[資源]()
