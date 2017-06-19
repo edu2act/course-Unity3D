@@ -10,3 +10,4 @@ Unity3D是由Unity Technologies开发的一个让玩家轻松创建诸如三维�
 4.掌握Scrum项目开发流程，并能够进行团队协作。
 5.掌握SVN、Git代码版本控制。
 6.掌握Unity3D游戏开发流程，并能制作简单的手机游戏。
+
