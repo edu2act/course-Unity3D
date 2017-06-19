@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Earth.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\DebugTest.cs" Line="8" Column="3" />
+      <File FileName="Assets\_Scripts\MonoTest.cs" Line="10" Column="35" />
+      <File FileName="Assets\_Scripts\Earth.cs" Line="18" Column="77" />
+      <File FileName="Assets\_Scripts\RoadManager.cs" Line="26" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
