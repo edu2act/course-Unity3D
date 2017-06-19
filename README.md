@@ -1,9 +1,12 @@
 # Unity 3D 游戏开发
-课程简介有待补充--Test1
-##课程大纲
-##[1.引擎简介及环境搭建](https://github.com/onest-qile/course-Unity3D/tree/master/1.%E5%BC%95%E6%93%8E%E7%AE%80%E4%BB%8B%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
-##[2.3D相关知识概述](https://github.com/onest-qile/course-Unity3D/tree/master/2.3D%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E6%A6%82%E8%BF%B0)
-##[3.集成开发环境综述](https://github.com/onest-qile/course-Unity3D/tree/master/3.%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E7%BB%BC%E8%BF%B0)
-##[4.游戏场景、游戏对象及组件、预设体](https://github.com/onest-qile/course-Unity3D/tree/master/4.%E6%B8%B8%E6%88%8F%E5%9C%BA%E6%99%AF%E3%80%81%E6%B8%B8%E6%88%8F%E5%AF%B9%E8%B1%A1%E5%8F%8A%E7%BB%84%E4%BB%B6%E3%80%81%E9%A2%84%E8%AE%BE%E4%BD%93)
-##[5.脚本开发基础](https://github.com/onest-qile/course-Unity3D/tree/master/5.%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80)
-##[6.脚本开发进阶](https://github.com/onest-qile/course-Unity3D/tree/master/6.%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E8%BF%9B%E9%98%B6)
+Unity3D是由Unity Technologies开发的一个让玩家轻松创建诸如三维视频游戏、建筑可视化、实时三维动画等类型互动内容的多平台的综合型游戏开发工具，是一个全面整合的专业游戏引擎。其编辑器运行在Windows 和Mac OS X下，可发布游戏至Windows、Mac、Wii、iPhone、WebGL（需要HTML5）、Windows phone 8和Android平台。也可以利用Unity web player插件发布网页游戏，支持Mac和Windows的网页浏览。它的网页播放器也被Mac widgets所支持。
+
+本课程是一门有关手机游戏开发的的专业课程。其中课程的主要任务是使学生具有使用C#语言编写基于Unity3D游戏引擎的手机游戏的能力。通过本课程的学习，学生可以掌握C#语言的使用、熟悉Unity3D游戏引擎和相关工具的使用。最终，使学生能够通过团队协作完成简单手机游戏的开发。
+
+通过本课程的学习，要求学生达到下列基本目标：
+1.掌握C#语言的基本使用，理解C#语言的执行原理。
+2.熟悉Unity3D游戏引擎及游戏开发相关概念和工具。
+3.熟练掌握Unity3D游戏引擎API的使用，拥有Unity3D游戏编码能力。
+4.掌握Scrum项目开发流程，并能够进行团队协作。
+5.掌握SVN、Git代码版本控制。
+6.掌握Unity3D游戏开发流程，并能制作简单的手机游戏。
